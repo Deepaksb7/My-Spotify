@@ -13,12 +13,14 @@ A fully responsive, interactive web music player inspired by Spotify's user inte
 - **Real-time Updates**: Displays current time and track duration live during playback.
 
 ### 📱 User Interface
-- **Spotify-inspired Design**: Clean, dark-themed UI replicating Spotify's modern look.
+- **Spotify-inspired Design**: Clean, dark-themed UI replicating Spotify's modern aesthetic.
 - **Responsive Layout**: Mobile-first, fluid design that adapts to all screen sizes.
 - **Interactive Cards**: Hover effects and smooth transitions enhance the UX.
 - **Hamburger Menu**: Collapsible sidebar for easy navigation on mobile devices.
 
-### 🎵 Music Management
+---
+
+## 🎵 Music Management
 - **Dynamic Playlist Loading**: Server-side scanning auto-detects available music files.
 - **Multiple Playlists**: Categorized tracks (e.g., NCS, Gym, Relax, etc.).
 - **Album Art Support**: Visual covers for playlists enhance the browsing experience.
@@ -34,6 +36,18 @@ A fully responsive, interactive web music player inspired by Spotify's user inte
 - **😴 Sleep** – Ambient sounds for restful sleep.
 - **😭 Cry & Depression** – Emotional and reflective music.
 - **💻 CS (Computer Science)** – Nerdy, code-inspired tunes.
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+![Desktop View](screenshots/desktop-view.png)
+
+### 📱 Mobile View
+![Mobile View](screenshots/mobile-view.png)
+
+> Add your screenshots inside a `/screenshots` folder in the root directory of your project. Make sure the file names match or update the paths accordingly.
 
 ---
 
@@ -61,3 +75,6 @@ A fully responsive, interactive web music player inspired by Spotify's user inte
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/my-spotify.git
+
+
+   
