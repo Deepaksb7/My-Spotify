@@ -47,7 +47,6 @@ A fully responsive, interactive web music player inspired by Spotify's user inte
 ### 📱 Mobile View
 ![Mobile View](screenshots/mobile-view.png)
 
-> Add your screenshots inside a `/screenshots` folder in the root directory of your project. Make sure the file names match or update the paths accordingly.
 
 ---
 
