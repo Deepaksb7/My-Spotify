@@ -42,12 +42,10 @@ A fully responsive, interactive web music player inspired by Spotify's user inte
 ## 📸 Screenshots
 
 ### 🖥️ Desktop View
-![Desktop View](<img width="1906" height="1036" alt="image" src="https://github.com/user-attachments/assets/c2570c69-f441-4269-a8e4-530c5b301b10" />
-)
+![Desktop View](<img width="1906" height="1036" alt="Screenshot 2025-08-20 202202" src="https://github.com/user-attachments/assets/dce8e93f-eb56-4e1a-a63f-e56acd434c50" />)
 
 ### 📱 Mobile View
-![Mobile View](<img width="772" height="1016" alt="image" src="https://github.com/user-attachments/assets/025822ab-e47f-4564-a67f-e70421200266" />
-)
+![Mobile View](<img width="772" height="1016" alt="Screenshot 2025-08-20 202335" src="https://github.com/user-attachments/assets/94dc62e0-518b-44ea-8fce-7967d374a6f4" />)
 
 
 ---
