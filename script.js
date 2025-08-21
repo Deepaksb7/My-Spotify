@@ -30,6 +30,7 @@ async function getSongs(folder) {
         const element = as[index];
         if (element.href.endsWith(".mp3")) {
             songs.push(element.href.split(`/${folder}/`)[1])
+    
         }
     }
 
@@ -46,7 +47,6 @@ async function getSongs(folder) {
                                 <img class="invert" src="play.svg" alt="">
                             </div> </li>`;
     }
-
     Array.from(document.querySelector(".songlist").getElementsByTagName("li")).forEach(e => {
         e.addEventListener("click", element => {
             playmusic(e.querySelector(".info").firstElementChild.innerHTML.trim())
